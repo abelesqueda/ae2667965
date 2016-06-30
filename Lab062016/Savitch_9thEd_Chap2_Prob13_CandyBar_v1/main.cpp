@@ -35,9 +35,9 @@ int main(int argc, char** argv) {
     //Process Data
     //If else statement because different equation for different sex
     if(mf=='m'||mf=='M'){
-        BMR=66+6.3*lbs+12.9*inches+6.8*yrs;//BMR equation for male
+        BMR=66+6.3*lbs+12.9*inches-6.8*yrs;//BMR equation for male
     }else{
-        BMR=655+4.3*lbs+4.7*inches+4.7*yrs;//BMR equation for female
+        BMR=655+4.3*lbs+4.7*inches-4.7*yrs;//BMR equation for female
     }    
     nBars=BMR/chocBar+1;
     //Output the processed Data
