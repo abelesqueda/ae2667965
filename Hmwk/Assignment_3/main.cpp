@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
    
             }else if (((Pone=='P'||Pone=='p')&&(Ptwo=='S'||Ptwo=='s'))||
                 ((Pone=='S'||Pone=='s')&&(Ptwo=='P'||Ptwo=='p'))){
-                cout<<"Scissors cut Paper! Scissors win."<<endl;
+                cout<<"Scissors cuts Paper! Scissors win."<<endl;
                 
             }else if (((Pone=='S'||Pone=='s')&&(Ptwo=='R'||Ptwo=='r'))||
                 ((Pone=='R'||Pone=='r')&&(Ptwo=='S'||Ptwo=='s'))){
