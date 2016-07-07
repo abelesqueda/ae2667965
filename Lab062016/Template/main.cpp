@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     //Declare Variables
     
     //Input Data
-    
+   
     //Process Data
     
     //Output the processed Data
