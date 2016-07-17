@@ -1,13 +1,15 @@
 /* 
  * File:   main.cpp
  * Author: Abel S. Esqueda
- * Created on June 20, 2016, 6:51 PM
- * Purpose: Template
+ * Created on July 15, 2016, 10:00 PM
+ * Purpose: Project #1
  */
 
 //System Libraries
 #include <iostream> //Input/Output Library
-#include <iomanip>
+#include <iomanip>  //Manipulation Library
+#include <cmath>    //Math Library
+#include <string>   //String Library
 using namespace std; //Namespace of the System Libraries
 
 //User Libraries
