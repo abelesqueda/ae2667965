@@ -21,7 +21,10 @@ using namespace std; //Namespace of the System Libraries
 //Execution Begins Here!
 int main(int argc, char** argv) {
     //Declare Variables
-    char c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
+    //I set the char=1 because i was getting a random dash and this seemed to
+    //fix the problem.
+    char c1=1,c2=1,c3=1,c4=1,c5=1,c6=1,c7=1,c8=1,c9=1,c10=1,c11=1,c12=1,c13=1;
+    char c14=1,c15=1,c16=1,c17=1,c18=1,c19=1,c20=1;
     int num;
     
     //Input Data
@@ -60,7 +63,7 @@ int main(int argc, char** argv) {
         case 19:cin>>c1>>c2>>c3>>c4>>c5>>c6>>c7>>c8>>c9>>c10>>c11>>c12>>c13>>c14>>c15>>c16>>c17>>c18>>c19;break;
         case 20:cin>>c1>>c2>>c3>>c4>>c5>>c6>>c7>>c8>>c9>>c10>>c11>>c12>>c13>>c14>>c15>>c16>>c17>>c18>>c19>>c20;break;
     }
-    //cin>>c1>>c2>>c3>>c4>>c5>>c6>>c7>>c8>>c9>>c10>>c11>>c12>>c13>>c14>>c15>>c16>>c17>>c18>>c19>>c20;
+   
    
     //Process Data
     if((c1>=65&&c1<=90)||(c1>=97&&c1<=122)){
@@ -98,7 +101,7 @@ int main(int argc, char** argv) {
     }if((c9>=65&&c9<=90)||(c9>=97&&c9<=122)){
         cout<<"_ ";
     }else{
-        cout<<'  ';
+        cout<<"  ";
     }if((c10>=65&&c10<=90)||(c10>=97&&c10<=122)){
         cout<<"_ ";
     }else{
