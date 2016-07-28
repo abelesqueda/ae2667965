@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=template
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/template
+CND_ARTIFACT_NAME_Debug=project2_practice
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/project2_practice
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=template.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/template.tar
+CND_PACKAGE_NAME_Debug=project2practice.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/project2practice.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=template
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/template
+CND_ARTIFACT_NAME_Release=project2_practice
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/project2_practice
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=template.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/template.tar
+CND_PACKAGE_NAME_Release=project2practice.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/project2practice.tar
 #
 # include compiler specific variables
 #
